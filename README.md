@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Ff4MKZ_9)
 # Opdracht PHP8 02 Blog A
 
 We gaan deze periode een Blog maken met OOP. Dat doen we in stappen: eerst maken we een heel simpele blog, zonder database, en beperkte functionaliteit. En daarna een steeds grotere versie.
